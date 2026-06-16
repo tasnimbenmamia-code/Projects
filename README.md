@@ -1,2 +1,2 @@
 # Projects
-here the codes of projects i made during my university journey 
+Hello! here you find the codes of projects i made or participate into during my university journey. 
